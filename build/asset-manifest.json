@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.b5d293fd.css",
+    "main.js": "/static/js/main.b0a2b9b0.js",
+    "static/js/787.fb9a5fa6.chunk.js": "/static/js/787.fb9a5fa6.chunk.js",
+    "static/media/output-onlinegiftools (5).gif": "/static/media/output-onlinegiftools (5).dfe38e104bd0d85f8477.gif",
+    "static/media/Book.png": "/static/media/Book.a405a9c06092938d52a6.png",
+    "static/media/Name_title.png": "/static/media/Name_title.46b70648d5451aff6fc6.png",
+    "index.html": "/index.html",
+    "main.b5d293fd.css.map": "/static/css/main.b5d293fd.css.map",
+    "main.b0a2b9b0.js.map": "/static/js/main.b0a2b9b0.js.map",
+    "787.fb9a5fa6.chunk.js.map": "/static/js/787.fb9a5fa6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b5d293fd.css",
+    "static/js/main.b0a2b9b0.js"
+  ]
+}
